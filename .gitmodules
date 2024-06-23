@@ -1,0 +1,9 @@
+[submodule "BHARATINTERN1"]
+	path = BHARATINTERN1
+	url = https://github.com/amnaihm/BHARATINTERN1
+[submodule "BHARATINTERN2"]
+	path = BHARATINTERN2
+	url = https://github.com/amnaihm/BHARATINTERN2
+[submodule "BHARATINTERN3"]
+	path = BHARATINTERN3
+	url = https://github.com/amnaihm/BHARATINTERN3
